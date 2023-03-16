@@ -1,7 +1,7 @@
 ### Hi  👋 I'm Zilan Ömer
 <h4>Jr. Full Stack Developer</h4>
 
-- 🔭 I’m currently working on  **Backend and Frontend Technologies ** 
+- 🔭 I’m currently working on  **Backend and Frontend Technologies** 
 - 📫You can reach me **zilanomer477@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
