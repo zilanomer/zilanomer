@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi  👋 I'm Zilan Ömer
+<h3 align="center">Jr. Full Stack Web Developer</h3>
+
+- 🔭 I’m currently working on Setup34 
+- 📫You can reach me **zilanomer477@gmail.com**
+
 
 <!--
 **zilanomer/zilanomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
